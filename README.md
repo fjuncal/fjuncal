@@ -3,7 +3,7 @@ I'm a software developer with years of experience, specialized in building compl
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fellipe-juncal) [![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fjuncal7@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fellipe-juncal) [![Email Badge](https://img.shields.io/badge/Gmail-cc0000.svg?logo=gmail&logoColor=white)](mailto:fjuncal7@gmail.com)
 
 
 # 💻 Tech Stack:
