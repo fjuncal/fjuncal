@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a software developer with years of experience, specialized in building complex systems and worked with a variety of frameworks and technologies.<br><br>I'm Java Developer specialized with extensive knowledge of Spring Boot, Java EE. In front-end development, I worked with Angular.  I have experience working with various databases, such as Oracle, PostgreSQL and MySQL.  But I also have knowledge of some other technologies such as Python, Javascript, C#, .NET, React, VueJs. Which are essential tools for modern software development.
+I'm a software developer with years of experience, specialized in building complex systems and worked with a variety of frameworks and technologies.<br><br>I'm Java Developer specialized with extensive knowledge of Spring Boot, Java EE. In front-end development, I worked with Angular.  I have experience working with various databases, such as Oracle, PostgreSQL and MySQL.  But I also have knowledge of some other technologies such as Python, Javascript, C#, .NET, React, React Native, Flutter, VueJs, Angular, NextJs, Golang and Rust. Which are essential tools for modern software development.
 
 
 ## 🌐 Socials:
